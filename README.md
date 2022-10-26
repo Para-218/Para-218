@@ -1,5 +1,5 @@
 - 👋👋👋 Hi, I’m @Para-218
-- Now I'm stundent of HCMUT (universe of technology) K20
+- Now I'm stundent of HCMUT (university of technology) K20
 - 👀 I’m interested in making bot
 - 🌱 I’m still beginner
 
