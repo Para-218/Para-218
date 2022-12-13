@@ -1,6 +1,6 @@
 - 👋👋👋 Hi, I’m @Para-218
-- Now I'm stundent of HCMUT (university of technology) K20
-- 👀 I’m interested in making bot
+- Now I'm stundent of HCMUT in Viet Nam K20
+- 👀 I’m interested in making bot AI
 - 🌱 I’m still beginner
 
 <!---
